@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "chef_picture": "https://example.com/chef1.jpg",
+      "chef_picture": "https://templates.majesticthemes.com/recipepress/images/temp-images/chef-team12.jpg",
       "chef_name": "Giada De Laurentiis",
       "experience_years": 20,
       "number_of_recipes": 500,
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "chef_picture": "https://example.com/chef2.jpg",
+      "chef_picture": "https://templates.majesticthemes.com/recipepress/images/temp-images/chef-team10.jpg",
       "chef_name": "Massimo Bottura",
       "experience_years": 30,
       "number_of_recipes": 200,
@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "chef_picture": "https://example.com/chef3.jpg",
+      "chef_picture": "https://templates.majesticthemes.com/recipepress/images/temp-images/chef-team11.jpg",
       "chef_name": "Mario Batali",
       "experience_years": 25,
       "number_of_recipes": 300,
@@ -31,7 +31,7 @@
     },
     {
       "id": 4,
-      "chef_picture": "https://example.com/chef4.jpg",
+      "chef_picture": "https://templates.majesticthemes.com/recipepress/images/temp-images/chef-team3.jpg",
       "chef_name": "Carlo Cracco",
       "experience_years": 35,
       "number_of_recipes": 150,
@@ -41,7 +41,7 @@
     },
     {
         "id": 5,
-        "chef_picture": "https://example.com/chef11.jpg",
+        "chef_picture": "https://templates.majesticthemes.com/recipepress/images/temp-images/chef-team5.jpg",
         "chef_name": "Enrico Crippa",
         "experience_years": 25,
         "number_of_recipes": 120,
@@ -51,7 +51,7 @@
     },
     {
         "id": 6,
-        "chef_picture": "https://example.com/chef6.jpg",
+        "chef_picture": "https://templates.majesticthemes.com/recipepress/images/temp-images/chef-team6.jpg",
         "chef_name": "Antonio Cannavacciuolo",
         "experience_years": 30,
         "number_of_recipes": 180,
@@ -61,7 +61,7 @@
     },
     {
         "id": 7,
-        "chef_picture": "https://example.com/chef7.jpg",
+        "chef_picture": "https://templates.majesticthemes.com/recipepress/images/temp-images/chef-team8.jpg",
         "chef_name": "Davide Scabin",
         "experience_years": 40,
         "number_of_recipes": 250,
@@ -71,7 +71,7 @@
     },
     {
         "id": 8,
-        "chef_picture": "https://example.com/chef8.jpg",
+        "chef_picture": "https://templates.majesticthemes.com/recipepress/images/temp-images/chef-team7.jpg",
         "chef_name": "Cristina Bowerman",
         "experience_years": 20,
         "number_of_recipes": 100,
@@ -81,7 +81,7 @@
     },
     {
         "id": 9,
-        "chef_picture": "https://example.com/chef9.jpg",
+        "chef_picture": "https://templates.majesticthemes.com/recipepress/images/temp-images/chef-team1.jpg",
         "chef_name": "Stefano Baiocco",
         "experience_years": 25,
         "number_of_recipes": 130,
@@ -91,7 +91,7 @@
     },
     {
         "id": 10,
-        "chef_picture": "https://example.com/chef12.jpg",
+        "chef_picture": "https://templates.majesticthemes.com/recipepress/images/temp-images/chef-team5.jpg",
         "chef_name": "Nadia Santini",
         "experience_years": 50,
         "number_of_recipes": 200,
