@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "chef_picture": "https://example.com/chef1.jpg",
+      "chef_name": "Giada De Laurentiis",
+      "experience_years": 20,
+      "number_of_recipes": 500,
+      "likes": 10000,
+      "description": "Giada is a well-known Italian-American chef, author, and television personality. She has hosted several cooking shows on Food Network, and has written several cookbooks.",
+      "biography": "Giada De Laurentiis was born in Rome, Italy, and grew up in a family that owned a pasta factory. She moved to the United States when she was young, and studied at Le Cordon Bleu in Paris before launching her career as a chef."
+    },
+    {
+      "id": 2,
+      "chef_picture": "https://example.com/chef2.jpg",
+      "chef_name": "Massimo Bottura",
+      "experience_years": 30,
+      "number_of_recipes": 200,
+      "likes": 15000,
+      "description": "Massimo is a renowned Italian chef and owner of the three-Michelin-starred Osteria Francescana in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine.",
+      "biography": "Massimo Bottura was born in Modena, Italy, and grew up in a family of restaurateurs. He studied law before deciding to pursue his passion for cooking, and eventually opened Osteria Francescana in 1995."
+    },
+    {
+      "id": 3,
+      "chef_picture": "https://example.com/chef3.jpg",
+      "chef_name": "Mario Batali",
+      "experience_years": 25,
+      "number_of_recipes": 300,
+      "likes": 12000,
+      "description": "Mario is an Italian-American chef, restaurateur, and media personality. He has written several cookbooks, and has appeared on several television shows, including Iron Chef America and The Chew.",
+      "biography": "Mario Batali was born in Seattle, Washington, and grew up in a family that owned a restaurant. He studied at Le Cordon Bleu in London before working at several restaurants in New York City, eventually opening his own restaurant, Babbo, in 1998."
+    },
+    {
+      "id": 4,
+      "chef_picture": "https://example.com/chef4.jpg",
+      "chef_name": "Carlo Cracco",
+      "experience_years": 35,
+      "number_of_recipes": 150,
+      "likes": 8000,
+      "description": "Carlo is an Italian chef and television personality. He is the owner of the two-Michelin-starred restaurant Cracco in Milan, Italy.",
+      "biography": "Carlo Cracco was born in Vicenza, Italy, and studied at the Instituto Alberghiero di Stato in Recoaro Terme. He worked at several restaurants before opening his own restaurant in Milan in 2007."
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://example.com/chef11.jpg",
+        "chef_name": "Enrico Crippa",
+        "experience_years": 25,
+        "number_of_recipes": 120,
+        "likes": 70000,
+        "description": "Enrico Crippa is an Italian chef and owner of the three-Michelin-starred restaurant Piazza Duomo in Alba, Italy. He is known for his inventive approach to traditional Italian cuisine.",
+        "biography": "Enrico Crippa was born in Pinerolo, Italy, and began his culinary career at a young age. He has worked at several top restaurants in Italy and France, and opened Piazza Duomo in 2005."
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://example.com/chef6.jpg",
+        "chef_name": "Antonio Cannavacciuolo",
+        "experience_years": 30,
+        "number_of_recipes": 180,
+        "likes": 80000,
+        "description": "Antonio Cannavacciuolo is an Italian chef and television personality. He is the owner of the two-Michelin-starred restaurant Villa Crespi in Orta San Giulio, Italy.",
+        "biography": "Antonio Cannavacciuolo was born in Vico Equense, Italy, and began his culinary career at a young age. He has worked at several top restaurants in Italy, and opened Villa Crespi in 1999."
+    },
+    {
+        "id": 7,
+        "chef_picture": "https://example.com/chef7.jpg",
+        "chef_name": "Davide Scabin",
+        "experience_years": 40,
+        "number_of_recipes": 250,
+        "likes": 45000,
+        "description": "Davide Scabin was an Italian chef and owner of the two-Michelin-starred Combal.Zero restaurant in Rivoli, Italy. He was known for his experimental approach to cooking and his use of molecular gastronomy techniques.",
+        "biography": "Davide Scabin was born in Turin, Italy, and began his culinary career in the 1980s. He opened Combal.Zero in 1994, and it quickly became one of the most innovative and acclaimed restaurants in Italy. Scabin passed away in 2018, but his influence on the culinary world lives on."
+    },
+    {
+        "id": 8,
+        "chef_picture": "https://example.com/chef8.jpg",
+        "chef_name": "Cristina Bowerman",
+        "experience_years": 20,
+        "number_of_recipes": 100,
+        "likes": 30000,
+        "description": "Cristina Bowerman is an Italian-American chef and owner of the one-Michelin-starred restaurant Glass Hostaria in Rome, Italy. She is known for her contemporary take on Italian cuisine.",
+        "biography": "Cristina Bowerman was born in Rome, Italy, and began her culinary career in the United States. She returned to Italy in 2006 and opened Glass Hostaria in 2010."
+    },
+    {
+        "id": 9,
+        "chef_picture": "https://example.com/chef9.jpg",
+        "chef_name": "Stefano Baiocco",
+        "experience_years": 25,
+        "number_of_recipes": 130,
+        "likes": 50000,
+        "description": "Stefano Baiocco is an Italian chef and owner of the two-Michelin-starred restaurant Villa Feltrinelli in Gargnano, Italy. He is known for his focus on local ingredients and his use of traditional Italian techniques.",
+        "biography": "Stefano Baiocco was born in Milan, Italy, and began his culinary career in the early 1990s. He has worked at several top restaurants in Italy and Europe, and opened Villa Feltrinelli in 2001."
+    },
+    {
+        "id": 10,
+        "chef_picture": "https://example.com/chef12.jpg",
+        "chef_name": "Nadia Santini",
+        "experience_years": 50,
+        "number_of_recipes": 200,
+        "likes": 40000,
+        "description": "Nadia Santini is an Italian chef and owner of the three-Michelin-starred restaurant Dal Pescatore in Canneto sull'Oglio, Italy. She is known for her traditional approach to Italian cuisine and her use of local ingredients.",
+        "biography": "Nadia Santini was born in Brescia, Italy, and began her culinary career at her family's restaurant, Dal Pescatore. She took over the restaurant in the 1970s and has since earned three Michelin stars for her cuisine." 
+    }
+]
