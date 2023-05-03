@@ -1,0 +1,291 @@
+[
+    {   
+        "cca" : "asr01",
+        "recipe_id": 1,
+        "recipe_image": "https://c.ndtvimg.com/2021-04/umk8i7ko_pasta_625x300_01_April_21.jpg?im=FaceCrop,algorithm=dnn,width=620,height=350",
+        "name": "Pasta alla Norma",
+        "ingredients": [
+            "penne pasta",
+            "eggplant",
+            "tomato sauce",
+            "garlic",
+            "ricotta salata"
+        ],
+        "cooking_method": "1. Cook the pasta according to the instructions on the package. 2. While the pasta is cooking, heat some oil in a pan and add sliced garlic. 3. Add diced eggplant and sauté for a few minutes. 4. Add tomato sauce and simmer for 15 minutes. 5. Mix the pasta with the sauce and sprinkle with crumbled ricotta salata.",
+        "rating": 4.5,
+        "favorite_icon": true
+    },
+    {
+        "cca" : "asr02",
+        "recipe_id": 1,
+        "recipe_image": "https://i.ndtvimg.com/i/2017-09/caprese-salad_625x350_51506417724.jpg",
+        "name": "Lasagna",
+        "ingredients": [
+            "lasagna noodles",
+            "ground beef",
+            "tomato sauce",
+            "ricotta cheese",
+            "mozzarella cheese"
+        ],
+        "cooking_method": "1. Cook the lasagna noodles according to the instructions on the package. 2. Brown the ground beef in a pan. 3. Add tomato sauce and simmer for 15 minutes. 4. Mix the ricotta cheese with some salt and pepper. 5. Layer the noodles, meat sauce, and ricotta cheese in a baking dish. 6. Sprinkle mozzarella cheese on top. 7. Bake in the oven at 375°F for 30 minutes.",
+        "rating": 4.8,
+        "favorite_icon": true
+    },
+    {
+        "cca" : "asr03",
+        "recipe_id": 1,
+        "recipe_image": "https://i.ndtvimg.com/i/2017-09/panzenella_600x300_71506417795.jpg",
+        "name": "Pizza Margherita",
+        "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "fresh mozzarella cheese",
+            "fresh basil",
+            "olive oil"
+        ],
+        "cooking_method": "1. Preheat the oven to 450°F. 2. Stretch the pizza dough on a baking sheet. 3. Spread tomato sauce on top. 4. Add sliced fresh mozzarella cheese and torn basil leaves. 5. Drizzle with olive oil. 6. Bake in the oven for 10-12 minutes.",
+        "rating": 4.7,
+        "favorite_icon": false
+    },
+    {
+        "cca" : "asr04",
+        "recipe_id": 2,
+        "recipe_image": "https://i.ndtvimg.com/i/2017-09/bruschetta_625x350_71506417841.jpg",
+        "name": "Risotto ai Funghi",
+        "ingredients": [
+            "arborio rice",
+            "mushrooms",
+            "onion",
+            "vegetable broth",
+            "parmesan cheese"
+        ],
+        "cooking_method": "1. Sauté sliced mushrooms and onion in a pan. 2. Add arborio rice and stir for a few minutes. 3. Gradually add hot vegetable broth, stirring constantly, until the rice is cooked al dente. 4. Add grated parmesan cheese and stir well. 5. Let rest for a few minutes before serving.",
+        "rating": 4.6,
+        "favorite_icon": true
+    },
+    {
+        "cca" : "asr05",
+        "recipe_id": 2,
+        "recipe_image": "https://i.ndtvimg.com/i/2017-09/frocaccia_600x300_41506417893.jpg",
+        "name": "Spaghetti alla Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "pancetta",
+            "eggs",
+            "pecorino romano cheese",
+            "black pepper"
+        ],
+        "cooking_method": "1. Preheat the oven to 450°F. 2. Stretch the pizza dough on a baking sheet. 3. Spread tomato sauce on top. 4. Add sliced fresh mozzarella cheese and torn basil leaves. 5. Drizzle with olive oil. 6. Bake in the oven for 10-12 minutes.",
+        "rating": 4.1,
+        "favorite_icon": true
+    },
+    {
+        "cca" : "asr06",
+        "recipe_id": 2,
+        "recipe_image": "https://i.ndtvimg.com/i/2017-09/pasta-carbonara_600x300_41506417953.jpg",
+        "name": "Penne all'Arrabbiata",
+        "ingredients": [
+            "penne pasta",
+            "canned tomatoes",
+            "garlic",
+            "red pepper flakes",
+            "olive oil"
+        ],
+        "cooking_method": "1. Cook the pasta according to the instructions on the package. 2. Heat some oil in a pan and add minced garlic and red pepper flakes. 3. Add canned tomatoes and simmer for 10-15 minutes. 4. Mix the pasta with the sauce and serve.",
+        "rating": 4.4,
+        "favorite_icon": false
+    },
+    {
+        "cca" : "asr07",
+        "recipe_id": 3,
+        "recipe_image": "https://i.ndtvimg.com/i/2017-09/margherita-pizza_600x300_51506418004.jpg",
+        "name": "Tiramisu",
+        "ingredients": [
+            "ladyfingers",
+            "mascarpone cheese",
+            "eggs",
+            "sugar",
+            "espresso"
+        ],
+        "cooking_method": "1. Mix the egg yolks with sugar until creamy. 2. Add mascarpone cheese and mix well. 3. Beat the egg whites until stiff and fold into the cheese mixture. 4. Dip the ladyfingers in espresso and layer them in a baking dish. 5. Spread the cheese mixture on top. 6. Refrigerate for at least 2 hours before serving.",
+        "rating": 4.9,
+        "favorite_icon": true
+    },
+    {
+        "cca" : "asr08",
+        "recipe_id": 3,
+        "recipe_image": "https://i.ndtvimg.com/i/2017-09/risotto_625x350_81506418041.jpg",
+        "name": "Veal Marsala",
+        "ingredients": [
+            "veal cutlets",
+            "flour",
+            "marsala wine",
+            "mushrooms",
+            "butter"
+        ],
+        "cooking_method": "1. Dredge the veal cutlets in flour. 2. Heat some butter in a pan and sauté the cutlets until browned. 3. Remove the cutlets from the pan and set aside. 4. Add sliced mushrooms to the pan and sauté for a few minutes. 5. Add marsala wine and simmer until reduced. 6. Add the veal cutlets back to the pan and simmer for a few more minutes.",
+        "rating": 4.7,
+        "favorite_icon": true
+    },
+    {
+        "cca" : "asr09",
+        "recipe_id": 3,
+        "recipe_image": "https://i.ndtvimg.com/i/2017-09/pasta-con-pomodoro-e-basilico_625x350_51506418092.jpg",
+        "name": "Linguine alle Vongole",
+        "ingredients": [
+            "linguine pasta",
+            "clams",
+            "garlic",
+            "white wine",
+            "olive oil"
+        ],
+        "cooking_method": "1. Cook the pasta according to the instructions on the package. 2. Heat some oil in a pan and add minced garlic. 3. Add clams and white wine and simmer until the clams open. 4. Discard any unopened clams. 5. Mix the pasta with the clam sauce and serve.",
+        "rating": 4.5,
+        "favorite_icon": false
+    },
+    {
+        "cca" : "asr10",
+        "recipe_id": 4,
+        "recipe_image": "https://i.ndtvimg.com/i/2017-09/tiramisu-the-pick-me-up-cake_625x350_81506418133.jpg",
+        "name": "Caponata",
+        "ingredients": [
+            "eggplant",
+            "celery",
+            "onion",
+            "tomatoes",
+            "olives"
+        ],
+        "cooking_method": "1. Cube the eggplant and fry in oil until browned. 2. Remove the eggplant from the pan and set aside. 3. Add chopped celery and onion to the pan and sauté for a few minutes. 4. Add diced tomatoes ",
+        "rating": 4.5,
+        "favorite_icon": false
+    },
+    {
+        "cca" : "asr11",
+        "recipe_id": 4,
+        "recipe_image": "https://i.ndtvimg.com/i/2017-10/lasagna_620x350_81508846322.jpg",
+        "name": "Ravioli with Spinach and Ricotta",
+        "ingredients": [
+            "ravioli pasta",
+            "spinach",
+            "ricotta cheese",
+            "parmesan cheese",
+            "garlic"
+        ],
+        "cooking_method": "1. Cook the ravioli according to the instructions on the package. 2. Heat some oil in a pan and add minced garlic. 3. Add spinach and sauté until wilted. 4. Add ricotta cheese and parmesan cheese and stir until melted. 5. Mix the ravioli with the spinach and ricotta sauce and serve.",
+        "rating": 4.6,
+        "favorite_icon": true
+    },
+    {
+        "cca" : "asr12",
+        "recipe_id": 4,
+        "recipe_image": "https://c.ndtvimg.com/2021-10/fj2c53e_burrata-pizza_625x300_06_October_21.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350",
+        "name": "Pizza Margherita",
+        "ingredients": [
+            "pizza dough",
+            "tomatoes",
+            "mozzarella cheese",
+            "basil",
+            "olive oil"
+        ],
+        "cooking_method": "1. Preheat the oven to 450°F. 2. Roll out the pizza dough and spread tomato sauce on top. 3. Add sliced mozzarella cheese and sprinkle with chopped basil. 4. Drizzle with olive oil. 5. Bake in the oven for 10-15 minutes or until the crust is golden brown.",
+        "rating": 4.8,
+        "favorite_icon": true
+    },
+    {
+        "cca" : "asr13",
+        "recipe_id": 5,
+        "recipe_image": "https://c.ndtvimg.com/2018-10/a1v6ja2g_panna-cota_625x300_22_October_18.jpg",
+        "name": "Lasagna",
+        "ingredients": [
+            "lasagna noodles",
+            "ground beef",
+            "tomato sauce",
+            "ricotta cheese",
+            "mozzarella cheese"
+        ],
+        "cooking_method": "1. Cook the lasagna noodles according to the instructions on the package. 2. Brown the ground beef in a pan and add tomato sauce. 3. Mix ricotta cheese with salt and pepper. 4. Layer the noodles, meat sauce, and ricotta mixture in a baking dish. 5. Sprinkle with mozzarella cheese. 6. Bake in the oven at 375°F for 30-40 minutes.",
+        "rating": 4.7,
+        "favorite_icon": false
+    },
+    {
+        "cca" : "asr14",
+        "recipe_id": 5,
+        "recipe_image": "https://c.ndtvimg.com/2019-07/9oa3uglg_pannetonne_625x300_25_July_19.jpg",
+        "name": "Panna Cotta",
+        "ingredients": [
+            "heavy cream",
+            "sugar",
+            "gelatin",
+            "vanilla extract",
+            "berries"
+        ],
+        "cooking_method": "1. Heat heavy cream and sugar in a saucepan until sugar dissolves. 2. Sprinkle gelatin over the mixture and stir until dissolved. 3. Remove from heat and add vanilla extract. 4. Pour the mixture into ramekins and refrigerate for at least 4 hours. 5. Serve with fresh berries.",
+        "rating": 4.9,
+        "favorite_icon": true
+    },
+    {
+        "cca" : "asr15",
+        "recipe_id": 5,
+        "recipe_image": "https://c.ndtvimg.com/0oc68rbg_fettuccine-pomodoro_625x300_30_August_18.jpg",
+        "name": "Mushroom Risotto",
+        "ingredients": [
+            "arborio rice",
+            "mushrooms",
+            "onion",
+            "chicken broth",
+            "parmesan cheese"
+        ],
+        "cooking_method": "1. Sauté mushrooms and onions in a pan until tender. 2. Add arborio rice and stir until coated. 3. Add chicken broth one ladle at a time, stirring constantly until absorbed. 4. Repeat until the rice is tender and creamy. 5. Stir in parmesan cheese ",
+        "rating": 4.7,
+        "favorite_icon": false
+    },
+    {
+        "cca" : "asr16",
+        "recipe_id": 6,
+        "recipe_image": "https://c.ndtvimg.com/2020-06/13nvldmo_pasta_625x300_24_June_20.jpg",
+        "name": "Tiramisu",
+        "ingredients": [
+            "mascarpone cheese",
+            "eggs",
+            "sugar",
+            "ladyfingers",
+            "espresso"
+        ],
+        "cooking_method": "1. Beat egg yolks and sugar until pale and creamy. 2. Add mascarpone cheese and beat until smooth. 3. In a separate bowl, beat egg whites until stiff peaks form. 4. Fold egg whites into the mascarpone mixture. 5. Dip ladyfingers in espresso and layer in a dish. 6. Spread mascarpone mixture over the ladyfingers. 7. Refrigerate for at least 2 hours.",
+        "rating": 4.9,
+        "favorite_icon": true
+    },
+    {
+        "cca" : "asr17",
+        "recipe_id": 6,
+        "recipe_image": "https://c.ndtvimg.com/2019-01/u03vgs28_ravioli_625x300_24_January_19.jpg",
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+            "spaghetti pasta",
+            "ground beef",
+            "tomato sauce",
+            "onion",
+            "garlic"
+        ],
+        "cooking_method": "1. Cook spaghetti pasta according to the instructions on the package. 2. Brown ground beef in a pan and set aside. 3. Sauté onion and garlic in the same pan until tender. 4. Add tomato sauce and bring to a simmer. 5. Add the ground beef back to the pan and let simmer for 10-15 minutes. 6. Serve over the cooked spaghetti.",
+        "rating": 4.7,
+        "favorite_icon": false
+    },
+    {
+        "cca" : "asr18",
+        "recipe_id": 6,
+        "recipe_image": "https://i.ndtvimg.com/i/2016-05/pannacotta_625x350_61462979327.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350",
+        "name": "Rosemary Focaccia",
+        "ingredients": [
+            "flour",
+            "water",
+            "yeast",
+            "salt",
+            "olive oil",
+            "rosemary"
+        ],
+        "cooking_method": "1. Mix flour, water, yeast, and salt in a bowl. 2. Knead the dough until smooth and elastic. 3. Let rise for 1-2 hours. 4. Preheat the oven to 425°F. 5. Roll out the dough into a flat shape and place on a baking sheet. 6. Drizzle with olive oil and sprinkle with rosemary. 7. Bake for 20-25 minutes or until golden brown.",
+        "rating": 4.8,
+        "favorite_icon": true
+    }
+]
